@@ -9,5 +9,10 @@ Lalu menambahkan garis biru bentang sebagai pemisah antara header dengan paragra
 <img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/9035dfb9-ecab-4fa1-8378-10b27fa6a92d" />
 Setelah itu kita dapat merubah style font atau warna dengan menggunakan css
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/4010e59e-caef-42ee-ba7c-d526a2b5bede" />
-lalu kita menambahkan background warna hijau untuk penanda header pertama 
-
+lalu kita menambahkan background warna hijau untuk penanda navigation bar
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/0d802e30-87bd-424a-bab0-c610ec865d95" />
+Lalu diubah warnanya agar lebih contast
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/61e81dd1-8bdc-46da-bec5-feb0f4802ae3" />
+lalu menambahkan background pada paragraf yang berisikan deskripsi 
+<img width="1914" height="942" alt="image" src="https://github.com/user-attachments/assets/a2715404-1db5-438e-be7a-767bdbf17c78" />
+Lalu posisi header paragraf diubah agar presisi, dan menambahkan background waarna merah pada link info selengkapnya agar memudahkan client mencari tahu mendalam terkait website yang dibuat
