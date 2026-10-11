@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Dasar</title>
+    <style>
+        body {
+            font-family: 'Open Sans', sans-serif;
+        }
+        header {
+            min-height: 80px;
+            border-bottom: 1px solid #77CCEF;
+        }
+        h1 {
+            font-size: 24 px;
+            color: #0F189F;
+            text-align: center;
+            padding: 20px 10px;
+        }
+        h1 i {
+            color: #6d6a6b;
+        }
+    </style>
+<link rel="stylesheet" href="style_eksternal.css" type="text/css">
+</head>
+<body>
+ <header> 
+    <h1> Css internal dan <i> Inline Css</i></h1>
+ </header>
+ <nav>
+    <a href="lab2_css_dasar.html">CSS dasar</a> 
+    <a href="lab2_css_eksternal.html">CSS eksternal</a>
+    <a href="lab1_tag_dasar.html">Html Dasar</a>
+ </nav>
+ <div id="intro">
+    <h1> Hello World</h1>
+    <p>
+    <p style="text-align: center; color: #ccd8e4; ">
+
+        Kami sedang belajar HTML dan CSS dasar, pada mata kuliah 
+        <b> Pemrograman Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama
+        yang kami dapat adalah membuat tampilan web sederhana menggunakan HTML dan CSS. 
+        Kami belajar tentang tag-tag dasar HTML, seperti <b>heading</b>, <b>paragraph</b>, <b>link</b>, 
+        dan <b>image</b>. Selain itu, kami juga belajar tentang cara mengatur tampilan web menggunakan CSS, 
+        baik secara internal maupun inline. Dengan memahami dasar-dasar ini, 
+        kami dapat membuat halaman web yang menarik dan fungsional.
+    </p>
+    <a class="button btn-primary" href="#intro"> informasi selengkapnya</a>
+ </div>
+</body>
+</html>
